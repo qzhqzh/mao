@@ -1,2 +1,4 @@
 db.*
 .idea/
+core/migrations/*.pyc
+notice/migrations/*.pyc
